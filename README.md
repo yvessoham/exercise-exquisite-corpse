@@ -31,3 +31,4 @@ La tortue a defié le lapin en une course .
 Le lapin est parti super vite et arrivé premier et il a gagné.
 ###  fin de l'histoire
 >>>>>>> 0aea04bcd09d20822c8ca644949651632b07ae5f
+celui qui arrive à mettre son talon sur son épaul ganera la coupe du talon flexible. 
